@@ -8,7 +8,7 @@
 
 var exec = require('cordova/exec');
 
-var asdads = {
+var startApp = {
 	/**
 	 * Set application params
 	 *
@@ -57,4 +57,4 @@ var asdads = {
 	}
 }
 
-module.exports = asdads;
+module.exports = startApp;
